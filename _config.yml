@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/ausouth/Final-Project
+source-code: https://github.com/ausouth/Indiana-University-Bloomington-Dungeons-and-Dragons-Club-Artwork
 
 ##########
 # SITE SETTINGS
@@ -34,13 +34,13 @@ author: Austin South
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: ArtatIU_metadata - Sheet1
+metadata: demo-metadata
 
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
- organization-name: "Digital Libraries Z652"
+# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
