@@ -16,5 +16,4 @@ credits: true
 
 This collection exists to serve the artists and art perusers of the Indiana University Dungeons and Dragons club. Before the implementation of this collection, all art in the club is shared through the group discord. The issue with this is the lack of searchability and the fact that art is not saved for future viewing. To look at old artwork, one has to scroll all the way back up the discord, taking far to long in order to view older artwork. With this collection, the art from a given year will be saved in a searchable and findable way. It is the hope of the creator that future generations of club members make good use of this collection to immortalize themselves and their art for as long as there is a want or a need to share their art with the world.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
